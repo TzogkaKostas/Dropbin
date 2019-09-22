@@ -1,4 +1,4 @@
-# Dropbin
+# Dropcarton
 
 This application is a simplified version of dropbox that different clients synchronize a set of files.
 Each client will be linked to a dropbox server, it will find out which other clients are logged in and the 
