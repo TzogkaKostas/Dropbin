@@ -1,6 +1,6 @@
 # Dropbin
 
-This application is a simplified version of the dropbox where different clients synchronize a set of files.
+This application is a simplified version of dropbox that different clients synchronize a set of files.
 Each client will be linked to a dropbox server, it will find out which other clients are logged in and the 
 information on how to communicates with them. Each client will be linked to each other client in order to
 synchronize their files, so that they all have up-to-date copies of all files.
